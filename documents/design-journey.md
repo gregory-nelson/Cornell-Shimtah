@@ -17,7 +17,7 @@ Shimtah is the one and only Korean Traditional Percussion group of Cornell Unive
 ## Site's Purpose (Milestone 1)
 > Tell us the purpose of the website and what it is all about.
 
-The site has a few purposes. To start, it will explain Shimtah and its history to users who do not know what it is. The site will also be a portal for interacting with the club, including links to social media, contact forms, and upcoming performance schedules. It will also host content that the club creates, such as videos and photos from performances.
+The site has a few purposes. To start, it will explain Korean percussion and its history to users who do not know what it is. The site will also be a portal for interacting with the club, including links to social media, contact forms, and upcoming performance schedules. It will also host content that the club creates, such as videos and photos from performances.
 
 <!-- - Have a contact form used for recruiting future members
 - Inform people about Korean traditional music and instruments
@@ -52,14 +52,25 @@ Needs/Wants: [Brief Title]
   - Having links to youtube videos via thumbnails circumvents needing to embed the videos, while still providing users a photographic preview of the video they'll be seeing, which would be lost in a text link.
 
 - **Need/Want**
-  - A description of Shimtah and its history
+  - A description of Shimtah, Korean percussion, and its history
 - **Design Ideas and Choices**
-  - An "instruments" page that shows off all of the instruments used in Shimtah, with pictures.
-  - An "about" page that describes what Shimtah is, as well as brief introductions from club members
+  - An "instruments" page that shows off all of the instruments used in Korean percussion, with pictures.
+  - An "about" page that describes the history of the club, as well as brief introductions from club members
 - **Memo**
-  -
+  - Because all of the instruments in Korean percussion are unique, it makes sense to have a whole page dedicated to explaining them.
+  - The information about the instruments should be separate from the information about the club, so users can find relevant information more quickly, hence the separate about page.
 
-## User(s) (Milestone 1)
+- **Need/Want**
+  - A way to learn about and contact the club
+- **Design Ideas and Choices**
+  - The aforementioned "about" page that will have the history of the club, as well as member bios.
+  - A contact form at the bottom of this page, where users will be prompted for name, email, and year.
+  - Logos at the footer of each page for instagram, youtube, and facebook, that link to Shimtah's respective page on each of those platforms. The club's email will also be in the footer.
+- **Memo**
+  - Having bios of current members makes the club more personable, which prospective members would want
+  - A contact form is the best way to reach out to prospective members. We will put it on the same page as the rest of the information about the club because it is club-logistics-related, as opposed to Korean-percussion-related.
+  - Having logos at the footer will make Shimtah's additional pages accessible from anywhere on the site.
+
 > Tell us about the users (target audience) for this website.
 
 Mainly Korean & Korean American students at Cornell University or any student who is interested in Korean culture or percussion music group
@@ -169,10 +180,6 @@ Youtube video thumbnails:
 - ![](18th_annual_concert_seonban_seoljanggu.PNG)
 - ![](18th_annual_concert_sm.png)
 - ![](18th_annual_concert_yeongnam_samulnori.png)
-
-Club member headshots:
-
-- STILL NEED THESE
 
 
 ## Interactivity Ideas (Milestone 1)
