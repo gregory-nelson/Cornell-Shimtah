@@ -80,22 +80,48 @@ Need/Want: ...
 ## Content (Milestone 1)
 > Plan out your site's content (text, images, etc.). Make a list of **all** the content you will need. This list should be **exhaustive**.
 
+We will have five pages for the website: Index, About, Instruments, Photo, Video
+
+- Index Page: Welcome message, Club logo, information about upcoming performance
+  - Upcoming performance: Shimtah's 20th Anniversary and the 19th Annual Concert.
+  - Date: 2020 / 2 / 8 (Saturday, TBD), Willard Straight Hall, 5PM ~ 7PM (TBD), Free tickets, Dinner provided
+
+- About Page: Introduction to the Club & Contact form
+  - Club Photo with a club description.
+  - "Welcome to Shimtah! Shimtah was established in 1999 as the one and only Korean Traditional Percussion group at Cornell University and the Ithaca area, working as the cultural ambassador to preserve and spread the spirit of Korean culture. Practices are held on Saturdays 5–7 PM in Lincoln Hall B20 on the Cornell University. For more information or to request a performance for 2019–2020, contact Mira Kim (mk864@cornell.edu)."
+  - E-Board Member Introduction: Pictures, Year, Major, Position, Instrument, Fun fact
+  - Contact form: directed to president's email (mk864@cornell.edu). Name / Email / Year / How did you find out about us?
+
+- Instruments Page: Introduction to the history of Korean percussion music and instruments we play
+  - Pungmul (Korean: 풍물; ) is a Korean folk music tradition that includes drumming, dancing, and singing. Most performances are outside, with dozens of players all in constant motion. Pungmul is rooted in the dure (collective labor) farming culture. It was originally played as part of farm work, on rural holidays, at other village community-building events, and to accompany shamanistic rituals, mask dance dramas, and other types of performance.
+  - A group of four men led by Kim Duk-soo and Kim Yong-bae, both descendants of namsadang troupe members, performed an impromptu arrangement of Pyeongtaek (utdari) pungmul with each of its four core instruments. Unlike traditional pungmul, this performance was conducted in a seated position facing the audience and demonstrated a variety of rhythms with great flexibility.
+  - Shimtah bases its roots in Imsil Pilbong Pungmul, performing Pangut, Seonban Seoljanggu, Bukchum, Yeongnam Samul, and Cornell Samul.
+  - These are four core instruments played in Pungmul.
 
 https://omeka1.grinnell.edu/MusicalInstruments/items/show/352
 - ![](kkwaenggwari.jpg)
+- The Kkwaneggwari, often noted as "swe", is a small flat gong producing distinctively high-pitched, metallic tone that breaks into a cymbal-like crashing timbre when struck forcefully. Swe is typically the lead instrument in pungmul, and the lead swe of the group serves as the musical lead of the group.
 
 http://www.soundofasia.com/jikotrgo.html
 - ![](jing.jpg)
+- The Jing is a large gong made of brass and is struck by a stick that is layered with cloth at one end to soften the texture of the sound produced. It is capable of producing a gentle and lingering sound as well as a big sound with a roaring effect, depending on force applied when striking against the brass.
 
 http://www.soundofasia.com/bukkobadr151.html
 - ![](buk.jpg)
-
+- The Buk is a traditional Korean drum. While the term buk is a native Korean word used as a generic term meaning "drum", it is most often used to refer to a shallow barrel-shaped drum, with a round wooden body that is covered on both ends with animal skin
 https://www.lapercussionrentals.com/instruments/janggu/591
 - ![](janggu.jpg)
+- The Janggu is the most representative drum in Korean percussion music. It is available in most kinds, and consists of an hourglass-shaped body with two heads made from animal skin. The two heads produce sounds of different pitch and timbre, which when played together are believed to represent the harmony of man and woman.
+
+- Photo gallery
+  - Photos from past performances / past years to note Shimtah's history
+- Video gallery
+  - Videos from past performances, linked to Shimtah's Youtube Channel
 
 ## Interactivity Ideas (Milestone 1)
 > Come up with some idea for interactive features for your site.
 
+- One of the main reasons the client has asked for a website is to recruit future members. We would have a interactive form for anyone who is interested in the club can submit their contact information. The E-board members of Shimtah would be able to contact that person and let them know more about the club or when we would be recruiting for new members. 
 
 # Design & Evaluation
 
