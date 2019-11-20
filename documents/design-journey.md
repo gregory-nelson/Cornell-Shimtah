@@ -88,8 +88,32 @@ We will have five pages for the website: Index, About, Instruments, Photo, Video
 
 - About Page: Introduction to the Club & Contact form
   - Club Photo with a club description.
+  ![](club2019.jpg)
   - "Welcome to Shimtah! Shimtah was established in 1999 as the one and only Korean Traditional Percussion group at Cornell University and the Ithaca area, working as the cultural ambassador to preserve and spread the spirit of Korean culture. Practices are held on Saturdays 5–7 PM in Lincoln Hall B20 on the Cornell University. For more information or to request a performance for 2019–2020, contact Mira Kim (mk864@cornell.edu)."
-  - E-Board Member Introduction: Pictures, Year, Major, Position, Instrument, Fun fact
+
+  - E-Board Member Introduction: Pictures, Year, Major, Position, Instrument
+
+    - President:
+      ![](president.jpg)
+      - Mira Kim / C' 2019 / ECE / President & Buswe / Swe, Janggu, Jing
+
+    - Vice President:
+      ![](vicepresident.jpg)
+      - Eunah Song / C' 2021 / Biology / Vice President & Sangjanggu / Swe, janggu
+
+    - Musical Director:
+      ![](musicaldirector.jpg)
+      - JeongHyun Lee / C' 2021 / Info Sci & Econ / Swe, Janggu
+
+    - Secreatary:
+      ![](secretary.jpg)
+      - SeungJin Park / C'2022 / Info Sci / Swe, Buk, Jing
+
+    - Treasurer:
+      ![](treasurer.jpg)
+      - ShinHyuk Seo / C'2019 / BME / Buk, Jing
+
+
   - Contact form: directed to president's email (mk864@cornell.edu). Name / Email / Year / How did you find out about us?
 
 - Instruments Page: Introduction to the history of Korean percussion music and instruments we play
@@ -121,7 +145,7 @@ https://www.lapercussionrentals.com/instruments/janggu/591
 ## Interactivity Ideas (Milestone 1)
 > Come up with some idea for interactive features for your site.
 
-- One of the main reasons the client has asked for a website is to recruit future members. We would have a interactive form for anyone who is interested in the club can submit their contact information. The E-board members of Shimtah would be able to contact that person and let them know more about the club or when we would be recruiting for new members. 
+- One of the main reasons the client has asked for a website is to recruit future members. We would have a interactive form for anyone who is interested in the club can submit their contact information. The E-board members of Shimtah would be able to contact that person and let them know more about the club or when we would be recruiting for new members.
 
 # Design & Evaluation
 
