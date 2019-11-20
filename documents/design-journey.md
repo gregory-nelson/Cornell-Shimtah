@@ -8,6 +8,7 @@ Be clear and concise in your writing. Bullets points are acceptable.
 ## Client Description (Milestone 1)
 > Tell us about your client. Who is your client? What kind of website do they want? What are their key goals?
 
+Shimtah is the one and only Korean Traditional Percussion group of Cornell University and in the Ithaca area, working as the cultural ambassador to preserve and spread the spirit of Korean culture. Shimtah would like a informative website used to introduce the club, inform people about Korean traditional music, and recruit new members.
 
 
 > NOTE: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** Tell us how you plan to update the site in a significant way that meets the Project 4 requirements.
@@ -16,6 +17,11 @@ Be clear and concise in your writing. Bullets points are acceptable.
 ## Site's Purpose (Milestone 1)
 > Tell us the purpose of the website and what it is all about.
 
+- Have a contact form used for recruiting future members
+- Inform people about Korean traditional music and instruments
+- Inform people about the club's history and current members
+- Have a photo & video gallery of past performances
+- Inform people about upcoming performances
 
 ## Client Meeting Notes (Milestone 1)
 > Include your notes/minutes from the client meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting.
@@ -38,6 +44,7 @@ Need/Want: ...
 ## User(s) (Milestone 1)
 > Tell us about the users (target audience) for this website.
 
+Mainly Korean & Korean American students at Cornell University or any student who is interested in Korean culture or percussion music group
 
 ## Discovering Users' Needs (Milestone 1)
 > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
@@ -72,6 +79,7 @@ Need/Want: ...
 
 ## Content (Milestone 1)
 > Plan out your site's content (text, images, etc.). Make a list of **all** the content you will need. This list should be **exhaustive**.
+
 
 https://omeka1.grinnell.edu/MusicalInstruments/items/show/352
 - ![](kkwaenggwari.jpg)
