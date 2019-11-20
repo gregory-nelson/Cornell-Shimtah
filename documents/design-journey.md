@@ -17,15 +17,18 @@ Shimtah is the one and only Korean Traditional Percussion group of Cornell Unive
 ## Site's Purpose (Milestone 1)
 > Tell us the purpose of the website and what it is all about.
 
-- Have a contact form used for recruiting future members
+The site has a few purposes. To start, it will explain Shimtah and its history to users who do not know what it is. The site will also be a portal for interacting with the club, including links to social media, contact forms, and upcoming performance schedules. It will also host content that the club creates, such as videos and photos from performances.
+
+<!-- - Have a contact form used for recruiting future members
 - Inform people about Korean traditional music and instruments
 - Inform people about the club's history and current members
 - Have a photo & video gallery of past performances
-- Inform people about upcoming performances
+- Inform people about upcoming performances -->
 
 ## Client Meeting Notes (Milestone 1)
 > Include your notes/minutes from the client meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting.
 
+  - STILL NEED THESE
 
 ## Client Needs and Wants (Milestone 1)
 > Collect your client's needs and wants for the website. Come up with several appropriate design ideas on how those needs may be met. In the **Memo** field, justify your ideas and add any additional comments you have. There is no specific number of needs required for this, but you need enough to do the job.
@@ -38,8 +41,23 @@ Needs/Wants: [Brief Title]
 - **Memo** [Justify your decisions; additional notes.]
   - TODO
 
-Need/Want: ...
+- **Need/Want**
+  - A place to show photos and videos
+- **Design Ideas and Choices**
+  - 2 pages, one for photos and one for videos
+  - Display 8-12 photos on the page in a grid format
+  - For videos, take thumbnails from youtube videos, display them as links to the videos themselves
+- **Memo**
+  - Because there aren't that many photos, we have more space on the screen to display them, so they can be bigger/higher quality. They also don't need to be organized in any way (chronological, etc.), so we can put them in a grid format
+  - Having links to youtube videos via thumbnails circumvents needing to embed the videos, while still providing users a photographic preview of the video they'll be seeing, which would be lost in a text link.
 
+- **Need/Want**
+  - A description of Shimtah and its history
+- **Design Ideas and Choices**
+  - An "instruments" page that shows off all of the instruments used in Shimtah, with pictures.
+  - An "about" page that describes what Shimtah is, as well as brief introductions from club members
+- **Memo**
+  - 
 
 ## User(s) (Milestone 1)
 > Tell us about the users (target audience) for this website.
@@ -68,18 +86,19 @@ Need/Want: ...
 ## User Testing Plan (Milestone 1)
 > Plan out your tasks for evaluating whether your site will meet the needs of the users. These must be actual user testing tasks. Tasks are not questions!
 
-1.
+1. Get on the club's mailing list
 
-2.
+2. Find out which Shimtah instruments would be interesting to you
 
-3.
+3. Find a video of current club members playing that instrument
 
-4.
+4. See if you know anyone already in the club
 
 
 ## Content (Milestone 1)
 > Plan out your site's content (text, images, etc.). Make a list of **all** the content you will need. This list should be **exhaustive**.
 
+Instrument pictures:
 
 https://omeka1.grinnell.edu/MusicalInstruments/items/show/352
 - ![](kkwaenggwari.jpg)
@@ -92,6 +111,21 @@ http://www.soundofasia.com/bukkobadr151.html
 
 https://www.lapercussionrentals.com/instruments/janggu/591
 - ![](janggu.jpg)
+
+Youtube video thumbnails:
+
+- ![](asia_night_2019.png)
+- ![](18th_annual_concert_bukchum.PNG)
+- ![](18th_annual_concert_fusion.png)
+- ![](18th_annual_concert_pg.png)
+- ![](18th_annual_concert_seonban_seoljanggu.PNG)
+- ![](18th_annual_concert_sm.png)
+- ![](18th_annual_concert_yeongnam_samulnori.png)
+
+Club member headshots:
+
+- STILL NEED THESE
+
 
 ## Interactivity Ideas (Milestone 1)
 > Come up with some idea for interactive features for your site.
@@ -108,6 +142,7 @@ https://www.lapercussionrentals.com/instruments/janggu/591
 
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
+
 
 
 ## User Testing (_optional_)
