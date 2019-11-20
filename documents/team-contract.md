@@ -41,16 +41,18 @@ At the end of all our meetings we will set clear tasks for all of us to complete
 
 
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
+
 When we disagree we will address the problem in person at the beginning of our next meeting.
 
 
 8. What are our procedures for re-visiting this contract?
+
 When an issue arises any group member can propose a change. Three group members must agree.
 
 
 9. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
 
-
+Have fun and learn something new!
 
 ## Using your Contract
 
