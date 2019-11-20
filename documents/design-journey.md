@@ -73,9 +73,17 @@ Need/Want: ...
 ## Content (Milestone 1)
 > Plan out your site's content (text, images, etc.). Make a list of **all** the content you will need. This list should be **exhaustive**.
 
-- TODO
-- TODO
-- ...
+https://omeka1.grinnell.edu/MusicalInstruments/items/show/352
+- ![](kkwaenggwari.jpg)
+
+http://www.soundofasia.com/jikotrgo.html
+- ![](jing.jpg)
+
+http://www.soundofasia.com/bukkobadr151.html
+- ![](buk.jpg)
+
+https://www.lapercussionrentals.com/instruments/janggu/591
+- ![](janggu.jpg)
 
 ## Interactivity Ideas (Milestone 1)
 > Come up with some idea for interactive features for your site.
