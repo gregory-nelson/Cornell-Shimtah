@@ -10,34 +10,42 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 
 1. To what goals do we all commit?
 
-
+Building a functional website on time, and at a standard we all believe deserves an "A."
 
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
 
+We will all do as close to 25% of the work as possible.
+We will communicate roadblocks in a timely manner.
+We will help each other when stuck, but also utilize office hours and other course resources on our own.
 
 
 3. By what means and how frequently will we meet or communicate?
 
-
+We will use GroupMe to communicate and all touch base at least once every three days.
 
 4. How will we communicate and work with our client?
 
-
+We will meet and discuss with the client during their weekly meeting, for more urgent concerns we will use E-mail.
 
 5. What roles will we create? Include a description of exactly what each role is responsible for.
 
-
+Contact Lead - Takes point in communicating with the club
+Artist - Draws sketches
+Organization Lead - Makes sure everyone is clear on the tasks they are expected to complete on their own at the end of our meetings
+Communication Lead - Asks for updates in the GroupMe if no one has sent anything in three days, helps resolve intra-team conflict and communicates with course staff if an issue grows too large.
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
+
+At the end of all our meetings we will set clear tasks for all of us to complete before our next meeting. A team member that fails to complete his task is expected to have communicated with the group prior to the next meeting so that we can make need arrangements. Specifically, we will ask a team member who fail to complete their assigned duties "Why did you fail," "What steps did you take to fix the issue on your own," and "Why did you not communicate with us earlier."
 
 
 
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
-
+When we disagree we will address the problem in person at the beginning of our next meeting.
 
 
 8. What are our procedures for re-visiting this contract?
-
+When an issue arises any group member can propose a change. Three group members must agree.
 
 
 9. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
