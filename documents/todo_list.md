@@ -7,8 +7,8 @@ Team contract
 
 TODO for m1:
 
-Instrument blurbs
-Club pictures
-Eboard pictures
-Event schedule
-Finish Design Journey
+Instrument blurbs - Jin
+Club pictures - Jin
+Eboard pictures - Jin
+Event schedule - Jin
+Finish Design Journey - The rest of us
