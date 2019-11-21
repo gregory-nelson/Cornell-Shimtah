@@ -145,10 +145,6 @@ We will have five pages for the website: Index, About, Instruments, Photo, Video
       - JeongHyun Lee / C' 2021 / Info Sci & Econ / Swe, Janggu
       ![](musicaldirector.jpg)
 
-    - Secretary:
-      - SeungJin Park / C'2022 / Info Sci / Swe, Buk, Jing
-      ![](secretary.jpg)
-
     - Treasurer:
       - ShinHyuk Seo / C'2019 / BME / Buk, Jing
       ![](treasurer.jpg)
