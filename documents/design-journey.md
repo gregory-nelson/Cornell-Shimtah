@@ -318,10 +318,10 @@ Task: [TODO: copy task here]
 
 
 **Mobile Design:**
-![](homeMobile1.jpg)
-![](aboutMobile1.jpg)
-![](instrumentMobile1.jpg)
-![](photoMobile1.jpg)
+![](homeMobile1.JPG)
+![](aboutMobile1.JPG)
+![](instrumentMobile1.JPG)
+![](photoMobile1.JPG)
 ![](videoMobile1.JPG)
 
 
