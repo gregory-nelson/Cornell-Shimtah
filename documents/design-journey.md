@@ -318,6 +318,11 @@ Task: [TODO: copy task here]
 
 
 **Mobile Design:**
+![](homeMobile1.jpg)
+![](aboutMobile1.jpg)
+![](instrumentMobile1.jpg)
+![](photoMobile1.jpg)
+![](videoMobile1.JPG)
 
 
 ## Additional Comments (Milestone 1)
