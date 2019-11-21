@@ -203,9 +203,30 @@ Youtube video thumbnails:
 
 > **Note:** Card sorting is used to organize your site's content. For each piece of content identified in the previous section, write a summary of that content onto a card. Now sort the cards. The grouping of cards provides you with your pages for your website. **Do not write down the pages you want and then "card sort" those. That is not card sorting.**
 
+Theme: We want the website to be inviting to new members/interested students. The website's theme is meant to reflect the traditional Korean style the club is based around, with pictures of the instruments as a background image in the home page, as well as the club logo in the top left of every page. We need the website to look organized and contain recent content in order to make the club look active and interesting.
+
+The club already had a basic template for the website that didn't have any content that they wanted us to use, with minor changes wherever necessary. This included the logo on every page and the background image on the home page. We thought the template was good, but we decided that the navigation bar at the top of the page should have a black background instead of white, to contrast the navigation with the actual content of the page, which had a white background.
+
+In our initial design, we wanted the home page to have the "welcome to Shimtah" message, and the upcoming performance schedule further down the page. Then, at the bottom, we would have the contact form for the club.
+
+We then conducted a card sort with one of the club members. This card sort reflected their thought process when they were designing the template for the website initially:
+
 ![](cardSort.JPG)
 
-Theme: We want the website to be inviting to new members/interested students. The website's theme is meant to reflect the traditional Korean style the club is based around. We need the website to look organized and contain recent content in order to make the club look active and interesting.
+After this, we decided that the contact form should go on the "about" page, because that page contained everything else related to club logistics. The sorter also thought there should be some sort of introduction to the club that was more than just "Welcome to Shimtah" on the front page. We decided to add "Traditional Korean Drumming Club" as well under the "welcome to Shimtah" to clarify to users what the club does. Our final sketch for the home page looked like this:
+
+![](home-sketch1.jpg)
+
+For the about page, we decided to have a brief history of the club at the top of the page, followed by eboard bios, followed by a contact form. Here was the sketch:
+
+![](about-sketch1.jpg)
+
+At first, we had all of the photos aligned, descending down the page. The only change we wanted to make to this sketch was to make the order of the photos and bios alternate, so the bio is on the left and the picture is on the right for every other member. We think that this will make the page more visually appealing, and more exciting. We didn't make a whole other sketch for it, given that it was just a minor change. We decided to do the same thing to the instruments page, which is reflected in our sketch for that page:
+
+![](instruments-sketch1.jpg)
+
+The photos page was pretty simple, we decided on a grid view and didn't see any reason to change. We think the same layout will work for the videos page, but we'll need to do some user testing with the coded draft in milestone two to make sure.
+
 
 
 ## Interactivity (Milestone 1)
