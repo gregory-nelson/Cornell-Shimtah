@@ -213,7 +213,7 @@ We then conducted a card sort with one of the club members. This card sort refle
 
 ![](cardSort.JPG)
 
-After this, we decided that the contact form should go on the "about" page, because that page contained everything else related to club logistics. The sorter also thought there should be some sort of introduction to the club that was more than just "Welcome to Shimtah" on the front page. We decided to add "Traditional Korean Drumming Club" as well under the "welcome to Shimtah" to clarify to users what the club does. Our final sketch for the home page looked like this:
+After this, we decided that the contact form should go on the "about" page, because that page contained everything else related to club logistics. The sorter also thought there should be some sort of introduction to the club that was more than just "Welcome to Shimtah" on the front page. We decided to add "Traditional Korean Drumming Club" as well under the "welcome to Shimtah", as well as a brief club introduction, to clarify to users what the club does. Our final sketch for the home page looked like this:
 
 ![](home-sketch1.jpg)
 
