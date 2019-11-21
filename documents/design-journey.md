@@ -76,8 +76,8 @@ Needs/Wants: [Brief Title]
 
 Mainly Korean & Korean American students at Cornell University or any student who is interested in Korean culture or percussion music group. A smaller, but relevant audience is friends and family of club members who want to find performance videos and other content.
 
-## Discovering Users' Needs (Milestone 1)
-> You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
+  ## Discovering Users' Needs (Milestone 1)
+  > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
 
 
 ## Users' Needs (Milestone 1)
@@ -171,7 +171,7 @@ We will have five pages for the website: Index, About, Instruments, Photo, Video
 
   - Contact form: directed to president's email (mk864@cornell.edu). Name / Email / Year / How did you find out about us?
 
-- Instruments Page: Introduction to the history of Korean percussion music and instruments we play
+- Instruments Page: Introduction to the history of Korean percussion music and instruments Shimtah plays
   - Pungmul (Korean: 풍물; ) is a Korean folk music tradition that includes drumming, dancing, and singing. Most performances are outside, with dozens of players all in constant motion. Pungmul is rooted in the dure (collective labor) farming culture. It was originally played as part of farm work, on rural holidays, at other village community-building events, and to accompany shamanistic rituals, mask dance dramas, and other types of performance.
   - A group of four men led by Kim Duk-soo and Kim Yong-bae, both descendants of namsadang troupe members, performed an impromptu arrangement of Pyeongtaek (utdari) pungmul with each of its four core instruments. Unlike traditional pungmul, this performance was conducted in a seated position facing the audience and demonstrated a variety of rhythms with great flexibility.
   - Shimtah bases its roots in Imsil Pilbong Pungmul, performing Pangut, Seonban Seoljanggu, Bukchum, Yeongnam Samul, and Cornell Samul.
@@ -226,7 +226,7 @@ Youtube video thumbnails:
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
 
-- One of the main reasons the client has asked for a website is to recruit future members. We would have a interactive form for anyone who is interested in the club can submit their contact information. The E-board members of Shimtah would be able to contact that person and let them know more about the club or when we would be recruiting for new members.
+- One of the main reasons the client has asked for a website is to recruit future members. We would have a interactive form for anyone who is interested in the club can submit their contact information. The E-board members of Shimtah would be able to contact that person and let them know more about the club or when they would be recruiting for new members.
 
 
 ## User Testing (_optional_)
