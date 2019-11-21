@@ -41,5 +41,5 @@ See the course website for a detailed citation policy with more information on u
 
 Each team member should sign their name and include today's date and time to submit **MILESTONE 1**.
 
-- Full Name of Each Contributing Team Member: Jin Park, Trevor Lake, Greg Nelson
-- Date & Time: 3:00 pm
+- Full Name of Each Contributing Team Member: Jin Park, Trevor Lake, Greg Nelson, Jasper Weed
+- Date & Time: 3:34 pm, 11/21, 2019
