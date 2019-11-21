@@ -227,6 +227,7 @@ At first, we had all of the photos aligned, descending down the page. The only c
 
 The photos page was pretty simple, we decided on a grid view and didn't see any reason to change. We think the same layout will work for the videos page, but we'll need to do some user testing with the coded draft in milestone two to make sure.
 
+We want to do testing with this design to make sure it works well. Until we do that, our mobile site will look similar. We removed the grid view of the photos and videos page, instead displaying one per line to fit the smaller screen. The layouts for the other pages translate well to a small screen.
 
 
 ## Interactivity (Milestone 1)
