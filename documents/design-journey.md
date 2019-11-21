@@ -28,7 +28,8 @@ The site has a few purposes. To start, it will explain Korean percussion and its
 ## Client Meeting Notes (Milestone 1)
 > Include your notes/minutes from the client meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting.
 
-  - STILL NEED THESE
+  ![](meetingnotes1.jpg)
+  ![](meetingnotes2.jpg)
 
 ## Client Needs and Wants (Milestone 1)
 > Collect your client's needs and wants for the website. Come up with several appropriate design ideas on how those needs may be met. In the **Memo** field, justify your ideas and add any additional comments you have. There is no specific number of needs required for this, but you need enough to do the job.
@@ -116,7 +117,7 @@ Need/Want: [Brief Title]
      - Performance schedule on the main page.
    - **Memo**
      - The photos and video pages, as well as showing prospective members what Shimtah does, also provides a way for friends and family to see club members performing.
-     - Similarly, the performance schedule can both inform new members what the performance schedule is like as well as tell friends and family when performances will occur so they can attend. 
+     - Similarly, the performance schedule can both inform new members what the performance schedule is like as well as tell friends and family when performances will occur so they can attend.
 
 
 ## User Testing Plan (Milestone 1)
@@ -148,24 +149,24 @@ We will have five pages for the website: Index, About, Instruments, Photo, Video
   - E-Board Member Introduction: Pictures, Year, Major, Position, Instrument
 
     - President:
-      ![](president.jpg)
       - Mira Kim / C' 2019 / ECE / President & Buswe / Swe, Janggu, Jing
+      ![](president.jpg)
 
     - Vice President:
-      ![](vicepresident.jpg)
       - Eunah Song / C' 2021 / Biology / Vice President & Sangjanggu / Swe, janggu
+      ![](vicepresident.jpg)
 
     - Musical Director:
-      ![](musicaldirector.jpg)
       - JeongHyun Lee / C' 2021 / Info Sci & Econ / Swe, Janggu
+      ![](musicaldirector.jpg)
 
-    - Secreatary:
-      ![](secretary.jpg)
+    - Secretary:
       - SeungJin Park / C'2022 / Info Sci / Swe, Buk, Jing
+      ![](secretary.jpg)
 
     - Treasurer:
-      ![](treasurer.jpg)
       - ShinHyuk Seo / C'2019 / BME / Buk, Jing
+      ![](treasurer.jpg)
 
 
   - Contact form: directed to president's email (mk864@cornell.edu). Name / Email / Year / How did you find out about us?
@@ -210,7 +211,8 @@ Youtube video thumbnails:
 ## Interactivity Ideas (Milestone 1)
 > Come up with some idea for interactive features for your site.
 
-- One of the main reasons the client has asked for a website is to recruit future members. We would have a interactive form for anyone who is interested in the club can submit their contact information. The E-board members of Shimtah would be able to contact that person and let them know more about the club or when we would be recruiting for new members.
+- Contact form
+- Interactive photo / video gallery
 
 # Design & Evaluation
 
@@ -224,6 +226,7 @@ Youtube video thumbnails:
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
 
+- One of the main reasons the client has asked for a website is to recruit future members. We would have a interactive form for anyone who is interested in the club can submit their contact information. The E-board members of Shimtah would be able to contact that person and let them know more about the club or when we would be recruiting for new members.
 
 
 ## User Testing (_optional_)
