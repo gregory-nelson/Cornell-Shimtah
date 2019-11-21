@@ -205,11 +205,7 @@ Youtube video thumbnails:
 
 ![](cardSort.JPG)
 
-![](home-sketch1.jpg)
-![](about-sketch1.jpg)
-![](instruments-sketch1.jpg)
-![](photos_sketch_draft_one.png)
-![](videoSketch1.JPG)
+Theme: We want the website to be inviting to new members/interested students. The website's theme is meant to reflect the traditional Korean style the club is based around. We need the website to look organized and contain recent content in order to make the club look active and interesting.
 
 
 ## Interactivity (Milestone 1)
@@ -293,6 +289,11 @@ Task: [TODO: copy task here]
 > Include the final sketches for each of your pages. These sketches **must** hand-drawn.
 
 **Desktop Design:**
+![](home-sketch1.jpg)
+![](about-sketch1.jpg)
+![](instruments-sketch1.jpg)
+![](photos_sketch_draft_one.png)
+![](videoSketch1.JPG)
 
 
 **Mobile Design:**
