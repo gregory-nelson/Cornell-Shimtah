@@ -91,7 +91,32 @@ Need/Want: [Brief Title]
 - **Rationale & Additional Notes** [Justify your decisions; additional notes.]
   - TODO
 
-Need/Want: ...
+  **Need/Want**
+   - A way to contact the club for those interested in signing up.
+ - **Design Ideas and Choices**
+   - Social media logos at the footer on each page
+   - An about page with club history, members, and a contact form
+ - **Memo**
+   - As mentioned in the client needs section, one of the primary uses of this site is outreach for new members, so links to social media and contact forms are important.
+
+   **Need/Want**
+    - Information on what the club is
+  - **Design Ideas and Choices**
+    - The instruments page with descriptions of the four instruments used.
+    - Photos and videos pages for users to check out.
+    - An upcoming performance schedule on the main page
+  - **Memo**
+    - Videos of performances and descriptions of instruments will give the users all they need to know about what the club does.
+    - They can also get an idea of the club's performance schedule by looking at the main page.
+
+    **Need/Want**
+     - Friends/family of club members looking for club performance content
+   - **Design Ideas and Choices**
+     - The photo and video pages, as listed above.
+     - Performance schedule on the main page.
+   - **Memo**
+     - The photos and video pages, as well as showing prospective members what Shimtah does, also provides a way for friends and family to see club members performing.
+     - Similarly, the performance schedule can both inform new members what the performance schedule is like as well as tell friends and family when performances will occur so they can attend. 
 
 
 ## User Testing Plan (Milestone 1)
