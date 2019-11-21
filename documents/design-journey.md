@@ -35,13 +35,6 @@ The site has a few purposes. To start, it will explain Korean percussion and its
 > Collect your client's needs and wants for the website. Come up with several appropriate design ideas on how those needs may be met. In the **Memo** field, justify your ideas and add any additional comments you have. There is no specific number of needs required for this, but you need enough to do the job.
 
 Needs/Wants: [Brief Title]
-- **Needs and Wants** [What does your client need and want?]
-  - TODO
-- **Design Ideas and Choices** [How will you meet those needs and wants?]
-  - TODO
-- **Memo** [Justify your decisions; additional notes.]
-  - TODO
-
 - **Need/Want**
   - A place to show photos and videos
 - **Design Ideas and Choices**
@@ -83,14 +76,6 @@ Mainly Korean & Korean American students at Cornell University or any student wh
 ## Users' Needs (Milestone 1)
 > Analyze the users' needs and wants from your notes above. List each need/want below. There is no specific number of needs required for this, but you need enough to do the job.
 > **Note:** These are probably *not* the needs of your client.
-
-Need/Want: [Brief Title]
-- **Needs and Wants** [What do the users need and want?]
-  - TODO
-- **Design Ideas and Choices** [How will you meet those needs and wants?]
-  - TODO
-- **Rationale & Additional Notes** [Justify your decisions; additional notes.]
-  - TODO
 
   **Need/Want**
    - A way to contact the club for those interested in signing up.
@@ -221,6 +206,11 @@ Youtube video thumbnails:
 > You should show us how your came up with your design and how your iterated on that design; show us the evolution of your design.
 
 > **Note:** Card sorting is used to organize your site's content. For each piece of content identified in the previous section, write a summary of that content onto a card. Now sort the cards. The grouping of cards provides you with your pages for your website. **Do not write down the pages you want and then "card sort" those. That is not card sorting.**
+
+![](home-sketch1.jpg)
+![](about-sketch1.jpg)
+![](instruments-sketch1.jpg)
+![](photos_sketch_draft_one.png)
 
 
 ## Interactivity (Milestone 1)
