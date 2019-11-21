@@ -74,7 +74,7 @@ Needs/Wants: [Brief Title]
 
 > Tell us about the users (target audience) for this website.
 
-Mainly Korean & Korean American students at Cornell University or any student who is interested in Korean culture or percussion music group
+Mainly Korean & Korean American students at Cornell University or any student who is interested in Korean culture or percussion music group. A smaller, but relevant audience is friends and family of club members who want to find performance videos and other content.
 
 ## Discovering Users' Needs (Milestone 1)
 > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
