@@ -16,4 +16,5 @@ Photo & Video Page - Jin
 About Page -
 Instruments Page -
 Complete Index Page -
-Fix rest of m1 design journey and complete rest of m2 design journey - 
+Fix rest of m1 design journey (card sorting and design process)
+complete rest of m2 design journey - 

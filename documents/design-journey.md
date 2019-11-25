@@ -192,8 +192,9 @@ Youtube video thumbnails:
 ## Interactivity Ideas (Milestone 1)
 > Come up with some idea for interactive features for your site.
 
-- Contact form
+- Contact form with conditional validations
 - Interactive photo / video gallery
+- Dynamically changing countdown clock based on context
 
 # Design & Evaluation
 
@@ -233,7 +234,7 @@ We want to do testing with this design to make sure it works well. Until we do t
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
 
-- One of the main reasons the client has asked for a website is to recruit future members. We would have a interactive form for anyone who is interested in the club can submit their contact information. The E-board members of Shimtah would be able to contact that person and let them know more about the club or when they would be recruiting for new members.
+- We would implement an interactive photo gallery. One of the main goals of the website is to archive pictures from past performances. Audiences of this website would be able to see large size pictures when they hover their mouse over the pictures.
 
 
 ## User Testing (_optional_)
@@ -337,6 +338,12 @@ Task: [TODO: copy task here]
 ## Client Feedback (Milestone 2)
 > You have met once with your client a second time to discuss your initial design. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Write a few sentences about the design feedback you received from your client.
 
+![](meetingnotes3.jpg)
+
+- Met with the e-board members to discuss our future plan and showed them our design journey
+- Received feedback via email later
+- Fixing interactivity content accordingly
+- No specific changes or design demands yet - contact them again once we have a semi-polished website with content published so they can give us feedback regarding the content
 
 ## Interactivity Plan (Milestone 2)
 > Write your interactivity pseudocode here.
@@ -344,9 +351,14 @@ Task: [TODO: copy task here]
 Example:
 ```
 when DOM is loaded:
-
-  if today is a monday:
-    show Monday's soup and Monday's daily special
+  if user is on photo gallery page:
+    if mouse hovers over picture n:
+      remove hidden element of display window
+      show original picture n on a display window
+    else if mouse does not hover over any picture n:
+      do not show the display window
+  else:
+    do not show the display window
 
 ```
 
