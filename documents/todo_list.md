@@ -27,3 +27,4 @@ Fix rest of m1 design journey (card sorting and design process) -
 TODO for m3:
 Get rid of margin on body element so nav bar extends across full screen (Jasper)
 reimplement div structure in instruments (Jasper)
+-I added a footer to index.html with social media icons. It needs to be cleaned up though

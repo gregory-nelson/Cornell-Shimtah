@@ -41,5 +41,5 @@ See the course website for a detailed citation policy with more information on u
 
 Each team member should sign their name and include today's date and time to submit **MILESTONE 2**.
 
-- Full Name of Each Contributing Team Member: Jin Park, Jasper Weed
-- Date & Time: 11/26/19 11:47AM
+- Full Name of Each Contributing Team Member: Jin Park, Jasper Weed, Trevor Lake
+- Date & Time: 11/26/19 1:00 PM
