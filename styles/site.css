@@ -13,6 +13,7 @@
 }
 .main-content-wrapper{
   background-color: white;
+  padding: 20px;
 }
 body{
   background-color: black;
@@ -37,6 +38,10 @@ nav a{
   display: flex;
   flex-direction: column;
 }
+.img-wrapper img{
+  height: 100%;
+  width: auto;
+}
 .instrument-content-wrapper{
   display: flex;
   flex-direction: column;
@@ -45,6 +50,12 @@ nav a{
   display: flex;
   flex-direction: row;
 }
+.instrument-wrapper .img-wrapper{
+  height: 300px;
+}
 .even{
   flex-direction: row-reverse;
+}
+.odd .instrument-content-wrapper{
+  margin-left: 20px;
 }
