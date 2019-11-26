@@ -13,7 +13,7 @@ body {
   display: flex;
   flex-direction: row;
   width: auto;
-  background-color: slategray;
+  background-color: #333333;
 
 }
 #logo-container{
@@ -150,4 +150,20 @@ background-size: contain;
   width: 400px;
   height: 300px;
   background-size: contain;
+}
+
+.icons {
+  background: #333333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position:absolute;
+  bottom:0;
+  width:100%;
+  height:60px;
+}
+
+.icon {
+  width: 45px;
+  padding: 10px;
 }
