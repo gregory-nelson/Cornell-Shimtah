@@ -33,3 +33,18 @@ nav a{
   margin-right: 30px;
   font-size: 2em;
 }
+.img-wrapper{
+  display: flex;
+  flex-direction: column;
+}
+.instrument-content-wrapper{
+  display: flex;
+  flex-direction: column;
+}
+.instrument-wrapper{
+  display: flex;
+  flex-direction: row;
+}
+.even{
+  flex-direction: row-reverse;
+}
