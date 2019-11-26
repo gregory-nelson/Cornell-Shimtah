@@ -1,72 +1,10 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js test">
+<html lang="en">
 <head>
+    <title>Cornell Shimtah</title>
     <meta charset="UTF-8">
-    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-    <link rel="manifest" href="site.webmanifest">
-    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#2b5797">
-    <link rel="shortcut icon" href="favicon.ico">
-    <meta name="apple-mobile-web-app-title" content="Shimtah">
-    <meta name="application-name" content="Shimtah">
-    <meta name="msapplication-TileColor" content="#2b5797">
-    <meta name="msapplication-config" content="browserconfig.xml">
-    <meta name="theme-color" content="#FFF">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Cornell Shimtah">
-    <meta name="subject" content="Cornell's traditioal Korean drumming club">
-    <meta name="keywords" content="Cornell, Shimtah, club, Ithaca, Korean, traditional, drumming, students, activity">
-    <meta name="author" content="Jeong Hyun Lee">
-    <meta name="revised" content="20190609">
-    <meta http-equiv="cache-control" content="public">
-    <meta http-equiv="Expires" content="604860">
-
-    <meta property="og:title" content="Cornell Shimtah">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="">
-    <meta property="og:image" content="shimtah-logo-black-white">
-    <title>Shimtah | Home</title>
-
-    <link rel="preload" href="libraries/font_subsets/Do_Hyeon/DoHyeon-Regular.subset.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="libraries/font_subsets/East_Sea_Dokdo/EastSeaDokdo-Regular.subset.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="libraries/font_subsets/HanS_Calli/HanSCalli.subset.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="libraries/font_subsets/fontawesome/fa-brands-400.subset.woff2" as="font" type="font/woff2" crossorigin>
-    <script src="js/modernizr-custom.js"></script>
-    <script>
-    document.documentElement.classList.remove("no-js");
-    Modernizr.on('webp', function (result) {
-        console.log(result);
-        if (result) {// supported
-        } else {// not-supported
-        }
-    });
-    </script>
-
-    <style>@font-face{font-family:'Alegreya Sans SC';font-display:swap;src:local('Alegreya Sans SC'),local('Alegreya Sans SC Regular'),url(libraries/fonts/AlegreyaSansSC/AlegreyaSansSC.woff2) format('woff2'),url(libraries/fonts/AlegreyaSansSC/AlegreyaSansSC.woff) format('woff');font-weight:400;font-style:normal}@font-face{font-family:'Do Hyeon Regular';font-display:swap;src:local("Do Hyeon"),local("Do Hyeon Regular"),url(libraries/font_subsets/Do_Hyeon/DoHyeon-Regular.subset.woff2) format('woff2'),url(libraries/font_subsets/Do_Hyeon/DoHyeon-Regular.subset.woff) format('woff');font-weight:400;font-style:normal}@font-face{font-family:'East Sea Dokdo Regular';font-display:swap;src:local('East Sea Dokdo'),local('East Sea Dokdo Regular'),url(libraries/font_subsets/East_Sea_Dokdo/EastSeaDokdo-Regular.subset.woff2) format('woff2'),url(libraries/font_subsets/East_Sea_Dokdo/EastSeaDokdo-Regular.subset.woff) format('woff');font-weight:400;font-style:normal}@font-face{font-family:'HanS Calli';font-display:swap;src:local('HanS'),local('HanS Calli'),local('HanS Calli Regular'),url(libraries/font_subsets/HanS_Calli/HanSCalli.subset.woff2) format('woff2'),url(libraries/font_subsets/HanS_Calli/HanSCalli.subset.woff) format('woff');font-weight:400;font-style:normal}@font-face{font-family:"Font Awesome 5 Brands";font-display:swap;src:local("Font Awesome 5 Brands"),local("Font Awesome 5 Brands Regular"),url(libraries/font_subsets/fontawesome/fa-brands-400.subset.woff2) format('woff2'),url(libraries/font_subsets/fontawesome/fa-brands-400.subset.woff) format('woff');font-weight:400;font-style:normal}</style>
-    <style>html{margin:0;height:100%}body{margin:0;display:flex;flex-flow:column;height:auto}.menu-container{text-align:right;z-index:2}.hamburger-icon{position:fixed;right:0;display:inline-block;margin-top:.8em;margin-right:.8em;background-color:#fff;border-radius:10%;padding:.2em}.bar{width:22px;height:2px;background-color:#000;margin:4px 0}#nav-container{z-index:0;position:fixed;right:0;height:100%;width:0;background-color:#000;overflow-x:hidden}nav a{font-family:"Alegreya Sans SC",Arial,sans-serif;font-weight:700}.webp #introduction-wrapper{background-image:url(../images/home-background.webp)}.no-webp #introduction-wrapper{background-image:url(../images/home-background.jpg)}#introduction-wrapper{text-align:center;flex:1 1 auto;display:flex;height:100vh;background-repeat:no-repeat;background-size:cover;background-attachment:fixed}#introduction{margin:auto;display:flex}#introduction div{display:inline-block;margin:auto}#welcome-message div{display:block;color:#fff}#main-message{font-family:"East Sea Dokdo Regular",Arial,sans-serif}#main-message span{font-family:"HanS Calli",Arial,sans-serif}#description{font-family:"Do Hyeon Regular",Arial,sans-serif;text-align:center}main{min-height:calc(100vh - 30px);background-color:#fff}</style>
-    <link rel="preload" href="styles/home-external.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="styles/home.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript>
-        <link rel="stylesheet" type="text/css" href="styles/home-external.min.css">
-        <link rel="stylesheet" type="text/css" href="styles/home.css">
-    </noscript>
-    <script>
-    !function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.addEventListener?t.removeEventListener("load",a):t.attachEvent&&t.detachEvent("onload",a),t.setAttribute("onload",null),t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
-    </script>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" defer></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous" defer></script>
 </head>
 <body>
-    <div class="menu-container">
-        <div class="hamburger-icon" onclick="toggleNav(this)">
-            <div class="bar" id="bar1"></div>
-            <div class="bar" id="bar2"></div>
-            <div class="bar" id="bar3"></div>
-        </div>
-    </div>
     <div id="nav-container">
         <div id="logo-container">
             <picture>
@@ -100,41 +38,13 @@
             </div>
         </div>
     </div>
-    <main style="display:flex;background-color:#777">
-        <p style="margin:auto;font-size:5vh;text-align:center;font-family:'Alegreya Sans SC';color:#FFF">Content coming soon</br>Check back later!</p>
+    <main>
+        <p></p>
     </main>
     <div class="icons">
         <a href="https://www.facebook.com/shimtah" target="_blank" data-toggle="tooltip" title="Facebook" data-placement="top"><i class="fab fa-facebook"></i></a>
         <div id="space"></div>
         <a href="https://www.youtube.com/user/CornellShimtah" target="_blank" data-toggle="tooltip" title="Youtube" data-placement="top"><i class="fab fa-youtube"></i></a>
     </div>
-
-    <script>
-        function toggleNav(x) {
-            x.classList.toggle("change");
-            document.getElementById("nav-container").classList.toggle("change");
-        }
-        window.onscroll = function() {scrollFunction()};
-        function scrollFunction() {
-            if (window.innerWidth >= 768) {
-                scroll_length = window.innerHeight * 0.6;
-                if (document.body.scrollTop > scroll_length || document.documentElement.scrollTop > scroll_length) {
-                    document.getElementById("nav-container").classList.add("stuck");
-                }
-                else {
-                    if (document.getElementById("nav-container").classList.contains("stuck")) {
-                        document.getElementById("nav-container").classList.remove("stuck");
-                        document.getElementById("nav-container").classList.add("unstuck");
-                        setTimeout(function() {
-                            document.getElementById("nav-container").classList.remove("unstuck")
-                        }, 150);
-                    }
-                }
-            }
-        }
-        window.addEventListener('DOMContentLoaded', function() {
-            $('[data-toggle="tooltip"]').tooltip();
-        });
-    </script>
 </body>
 </html>
