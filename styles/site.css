@@ -1,0 +1,21 @@
+#nav-container{
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+}
+body{
+  background-color: black;
+}
+a{
+  text-decoration: none;
+}
+a :hover{
+  text-decoration: underline;
+}
+nav{
+  display: flex;
+  flex-direction: row;
+}
+nav a{
+  color: white;
+}
