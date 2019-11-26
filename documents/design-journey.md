@@ -348,8 +348,8 @@ Task: [TODO: copy task here]
 ## Interactivity Plan (Milestone 2)
 > Write your interactivity pseudocode here.
 
-Example:
-```
+
+
 when DOM is loaded:
   if user is on photo gallery page:
     if mouse hovers over picture n:
@@ -360,7 +360,6 @@ when DOM is loaded:
   else:
     do not show the display window
 
-```
 
 ## Additional Comments (Milestone 2)
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.

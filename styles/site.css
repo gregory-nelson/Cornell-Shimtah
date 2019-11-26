@@ -1,7 +1,20 @@
+/** Font Source: https://www.1001fonts.com/abeezee-font.html*/
+@font-face {
+  font-family: Montserrat;
+  src: url("../abeezee/AbeeZee-Regular.ttf");
+}
+
+body {
+  font-family: Montserrat, Helvetica, sans-serif;
+}
+
+
 #nav-container{
   display: flex;
   flex-direction: row;
-  background-color: black;
+  width: auto;
+  background-color: slategray;
+
 }
 #logo-container{
   width: 115px;
@@ -16,9 +29,12 @@
   padding: 20px;
 }
 body{
-  background-color: black;
-  font-size: 1.3em;
+  background-color: white;
+  font-size: 20px;
 }
+img {
+	max-width: 100%;
+	}
 a{
   text-decoration: none;
 }
@@ -32,8 +48,8 @@ nav{
 }
 nav a{
   color: white;
-  margin-right: 30px;
-  font-size: 2em;
+  margin-right: 10px;
+  font-size: 28px;
 }
 .img-wrapper{
   display: flex;
@@ -63,4 +79,75 @@ nav a{
 }
 .odd .instrument-content-wrapper{
   margin-left: 20px;
+}
+
+.row {
+  font-size: 14px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  color: white;
+  justify-content: center;
+  margin: 0px auto 30px auto;
+  padding: 0px 40px;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.box {
+  width: 300px;
+  height: 300px;
+  margin: 15px 15px 15px 15px;
+  text-align: center;
+}
+
+
+.row a {
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+  display: inline-block;
+  margin: auto;
+}
+
+.row a:hover {
+  color:orange;
+  opacity: 1;
+  transition: 0.3s;
+}
+
+.a1 {
+  background-image: url("../images/annual19.jpg");
+  /** Image Source: https://www.facebook.com/photo.php?fbid=2443291985898464&set=g.427029140821700&type=1&theater&ifg=1 */
+width: 270px;
+height: 200px;
+background-size: contain;
+}
+
+
+.a2 {
+  background-image: url("../images/asiannight19.jpg");
+  /** Image Source: https://www.facebook.com/photo.php?fbid=2521179291277830&set=g.427029140821700&type=1&theater&ifg=1 */
+  width: 150px;
+  height: 200px;
+  background-size: contain;
+}
+
+.a3 {
+  background-image: url("../images/hopenight19.jpg");
+  /** Image Source: https://ko.foursquare.com/v/shuck-yeah/5b00a1d961e53b002c60977e/photos */
+  width: 400px;
+  height: 180px;
+  background-size: contain;
+}
+
+.a4 {
+  background-image: url("../images/potluck19.jpg");
+  /** Image Source: https://www.facebook.com/photo.php?fbid=2141690882551392&set=g.427029140821700&type=1&theater&ifg=1 */
+  width: 400px;
+  height: 300px;
+  background-size: contain;
 }

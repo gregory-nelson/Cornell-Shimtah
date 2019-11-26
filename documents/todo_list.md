@@ -14,10 +14,11 @@ Upload meeting notes and put them on design journey - Jin
 m2
 
 Fix m1 interactivity section, m2 interactivity pseudocode, m2 meeting notes - Jin
+Photo & Video Page - Jin
 
 TODO for m2:
 
-Photo & Video Page - Jin
+
 Clean up and complete About Page -
 Create Instruments Page -
 Clean up and complete Index Page -
