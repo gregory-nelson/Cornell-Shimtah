@@ -17,6 +17,7 @@
 }
 body{
   background-color: black;
+  font-size: 1.3em;
 }
 a{
   text-decoration: none;
@@ -42,6 +43,9 @@ nav a{
   height: 100%;
   width: auto;
 }
+.instrument-list-wrapper{
+  margin-top: 20px;
+}
 .instrument-content-wrapper{
   display: flex;
   flex-direction: column;
@@ -49,6 +53,7 @@ nav a{
 .instrument-wrapper{
   display: flex;
   flex-direction: row;
+  margin-bottom: 20px;
 }
 .instrument-wrapper .img-wrapper{
   height: 300px;
