@@ -23,3 +23,7 @@ Clean up and complete About Page -
 Create Instruments Page -
 Clean up and complete Index Page -
 Fix rest of m1 design journey (card sorting and design process) -
+
+TODO for m3:
+Get rid of margin on body element so nav bar extends across full screen (Jasper)
+reimplement div structure in instruments (Jasper)
