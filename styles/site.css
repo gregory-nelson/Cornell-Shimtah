@@ -33,7 +33,8 @@ main {
   background-color: white;
   margin: auto;
   padding: 10px;
-  width: 960px;
+  width: 90%;
+  max-width: 960px;
 }
 
 img {
@@ -78,9 +79,7 @@ nav a{
 .instrument-wrapper .img-wrapper{
   height: 300px;
 }
-.even{
-  flex-direction: row-reverse;
-}
+
 .odd .instrument-content-wrapper{
   margin-left: 20px;
 }
@@ -227,4 +226,34 @@ footer p {
 .instrument-container h1 {
   margin: 0;
   margin-bottom: 5px;
+}
+@media (max-width: 700px){
+  #nav-container{
+    flex-direction: column;
+  }
+  #logo-container{
+    align-self: center;
+  }
+  nav{
+    justify-content: space-around;
+    flex-flow: row wrap;
+  }
+  nav a{
+    font-size: 16px;
+  }
+  .instrument-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  .even{
+    flex-direction: column-reverse;
+  }
+  .instrument-image {
+    margin-bottom: 10px;
+  }
+  .instrument-container p {
+    width: 90%;
+    margin: 0;
+  }
 }
