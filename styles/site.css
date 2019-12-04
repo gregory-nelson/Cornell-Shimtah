@@ -6,8 +6,9 @@
 
 body {
   font-family: Montserrat, Helvetica, sans-serif;
+  background-color: white;
+  font-size: 20px;
 }
-
 
 #nav-container{
   display: flex;
@@ -24,14 +25,17 @@ body {
   height: auto;
   width: 100%;
 }
+main {
+  background: #edeef0;
+  align-items: center;
+}
 .main-content-wrapper{
   background-color: white;
-  padding: 20px;
+  margin: auto;
+  padding: 10px;
+  width: 960px;
 }
-body{
-  background-color: white;
-  font-size: 20px;
-}
+
 img {
 	max-width: 100%;
 	}
@@ -152,6 +156,7 @@ background-size: contain;
   background-size: contain;
 }
 
+/* Start of FOOTER */
 footer {
   background: #333333;
   display: flex;
@@ -170,6 +175,11 @@ footer a {
   color: black;
 }
 
+footer p {
+  width: 210px;
+  color: #ffffff;
+}
+
 .icon-container {
   display: flex;
   flex-direction: column;
@@ -180,14 +190,41 @@ footer a {
   display: flex;
 }
 
-footer p {
-  width: 210px;
-  color: #ffffff;
-}
-
 .icon {
   width: 40px;
   padding: 5px;
   padding-top: 10px;
   padding-bottom: 0px;
+}
+/* End of FOOTER */
+
+/* Start of INSTUMENTS PAGE */
+.instrument-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.instrument-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+
+.instrument-container p {
+  width: 50%;
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+}
+
+.instrument-image {
+  display: flex;
+  flex-direction: column;
+}
+
+.instrument-container h1 {
+  margin: 0;
+  margin-bottom: 5px;
 }
