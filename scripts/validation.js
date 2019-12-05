@@ -16,7 +16,7 @@ $(document).ready(function () {
       $("#emailError").removeClass("hidden");
       formValid = false;
     }
-    if( $("#year").val() === "" ) {
+    if( $("#class").val() === "" ) {
      $("#yearError").removeClass("hidden");
        formValid = false;
    }
@@ -24,5 +24,6 @@ $(document).ready(function () {
        $("#yearError").addClass("hidden");
    }
     return formValid;
+
   });
 });
