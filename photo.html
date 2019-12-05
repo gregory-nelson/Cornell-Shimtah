@@ -4,6 +4,8 @@
     <title>Cornell Shimtah: Photos</title>
     <meta charset="UTF-8">
     <link rel = "stylesheet" href = "styles/site.css">
+    <script src="scripts/jquery-3.4.1.min.js" type="text/javascript" ></script>
+    <script src="scripts/photo.js" type="text/javascript" ></script>
   </head>
   <body>
     <div id="nav-container">
@@ -24,29 +26,45 @@
     <h2>
       2018 ~ 2019 Photo Album
     </h2>
-    <div class="row">
 
-    <div class="a1 box">
-      <p>2019 Annual Concert</p>
+  <div class="row">
+    <div class="column">
+      <img class="myImg" src="images/annual19.jpg" alt="Annual Concert 2019">
+    </div>
+    <div class="column">
+      <img class="myImg" src="images/asiannight19.jpg" alt="Asian Night 2019">
+    </div>
+    <div class="column">
+      <img class="myImg" src="images/hopenight19.jpg" alt="Hope Night 2019">
+    </div>
+    <div class="column">
+      <img class="myImg" src="images/potluck19.jpg" alt="Potluck Party 2019">
+    </div>
+    <div class="column">
+      <img class="myImg" src="images/ithaca19.jpg" alt="Ithaca College 2019">
+    </div>
+    <div class="column">
+      <img class="myImg" src="images/johnson19.jpg" alt="Johnson Museum 2019">
+    </div>
+    <div class="column">
+      <img class="myImg" src="images/winter2019.jpg" alt="Winter 2019">
     </div>
 
-    <div class="a2 box">
-      <p>2019 Asian Night</p>
+    <div id="myModal" class="modal">
+
+      <!-- The Close Button -->
+      <span class="close" onclick="document.getElementById('myModal').style.display='none'">&times;</span>
+
+      <!-- Modal Content (The Image) -->
+      <img class="modal-content" id="img01">
+
+      <!-- Modal Caption (Image Text) -->
+      <div id="caption"></div>
     </div>
 
-    <div class="a3 box">
-      <p>2019 Project Hope Night</p>
-    </div>
 
-    <div class="a4 box">
-      <p>2019 Barbecue Party</p>
-    </div>
+  </div>
 
-    <!---More Pictures will be arriving to be placed in this page!--->
-
-
-
-    </div>
 
     <footer>
       <p></p> <!-- Empty flex item to get correct spacing -->
