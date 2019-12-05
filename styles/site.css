@@ -73,9 +73,10 @@ label{
 text-align: right;
 flex-basis: 45%;
 }
-input{
+/* input{
 margin-left: 10px;
-}
+margin-right: 10px;
+} */
 select{
   margin-left: 10px;
 }
@@ -357,6 +358,9 @@ footer p {
   margin: 0;
   margin-bottom: 5px;
 }
+.profile a{
+    font-size: 8px;
+}
 @media (max-width: 700px){
   #nav-container{
     flex-direction: column;
@@ -386,5 +390,11 @@ footer p {
     width: 90%;
     margin: 0;
   }
-
+  /* label{
+    text-align: center;
+  } */
+  footer p {
+    width: 0px;;
+    color: #ffffff;
+  }
 }

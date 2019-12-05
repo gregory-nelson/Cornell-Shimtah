@@ -31,3 +31,8 @@ TODO for m3:
 Get rid of margin on body element so nav bar extends across full screen (Jasper)
 reimplement div structure in instruments (Jasper)
 -I added a footer to index.html with social media icons. It needs to be cleaned up though
+
+TODO for final:
+
+Fix spacing with spaces rather than with CSS on some elements in the about page
+Fix form CSS mobile
