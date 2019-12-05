@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <link rel = "stylesheet" href = "styles/site.css">
+    <script src="scripts/validation.js" type="text/javascript"></script>
     <title>Cornell Shimtah: About</title>
   </head>
   <body>
@@ -85,19 +86,40 @@
             </div>
           </li>
         </ul>
-        <form>
+        <form id="join" method="post" action="https://www.cs.cornell.edu/courses/cs1300/2019fa/submit.php" novalidate>
           <h2>Join Now!</h2>
           <div class = "input">
             <label for = "name">Name:</label>
-            <input type = "text" id ="name"/>
+            <input type = "text" id ="name" name = "name" required/>
+          </div>
+          <div class= "error_message hidden" id="nameError">
+            Please enter your name
           </div>
           <div class = "input">
             <label for = "email">Email:</label>
-            <input type = "email" id ="email"/>
+            <input type = "email" id ="email" name = "email" required/>
           </div>
-          <div class = "input">
-            <label for = "year">Year:</label>
-            <input type = "number" id ="year"/>
+          <div class= "error_message hidden" id="emailError">
+            Please enter your cornell email address
+          </div>
+        <div class = input>
+          <label for="class"> Year:</label>
+          <select name="class" id = "class" required>
+            <option value="">----</option>
+            <option value="2020">2019</option>
+            <option value="2020">2020</option>
+            <option value="2021">2021</option>
+            <option value="2022">2022</option>
+            <option value="2023">2023</option>
+            <option value="2023">2024</option>
+          </select>
+        </div>
+        <div class= "error_message hidden" id="yearError">
+          Please select your estimated graduation year
+        </div>
+
+          <div class = "submit">
+            <button type="submit" class="submit">Submit</button>
           </div>
         </form>
       </div>
