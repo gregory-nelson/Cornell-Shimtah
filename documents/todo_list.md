@@ -16,6 +16,9 @@ m2
 Fix m1 interactivity section, m2 interactivity pseudocode, m2 meeting notes - Jin
 Photo & Video Page - Jin
 
+m3
+Interactive Javascript Photo Gallery - Jin
+
 TODO for m2:
 
 
