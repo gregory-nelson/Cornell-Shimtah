@@ -36,3 +36,4 @@ TODO for final:
 
 Fix spacing with spaces rather than with CSS on some elements in the about page
 Fix form CSS mobile
+Fix pseudocode in the design journey, add pseudocode for the form
