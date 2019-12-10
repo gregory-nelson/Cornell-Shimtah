@@ -184,11 +184,13 @@ form h2{
   padding: 10px;
 }
 
+
 /* Style the images inside the grid */
 #myImg {
   border-radius: 5px;
   cursor: pointer;
   transition: 0.3s;
+
 }
 
 #myImg:hover {opacity: 0.7;}
@@ -207,6 +209,7 @@ form h2{
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
 }
+
 
 /* Modal Content (Image) */
 .modal-content {
@@ -313,7 +316,7 @@ footer div {
 }
 
 footer a {
-  color: black;
+  color: white;
 }
 
 footer p {
