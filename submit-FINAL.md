@@ -41,5 +41,5 @@ See the course website for a detailed citation policy with more information on u
 
 Each team member should sign their name and include today's date and time to submit **FINAL SUBMISSION**.
 
-- Full Name of Each Contributing Team Member: Jin Park, Greg Nelson, Trevor Lake
+- Full Name of Each Contributing Team Member: Jin Park, Greg Nelson, Trevor Lake, Jasper Weed
 - Date & Time:
