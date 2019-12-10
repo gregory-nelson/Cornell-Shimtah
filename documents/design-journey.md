@@ -128,26 +128,26 @@ We will have five pages for the website: Index, About, Instruments, Photo, Video
 
 - About Page: Introduction to the Club & Contact form
   - Club Photo with a club description.
-  ![](images/club2019.jpg)
+  ![](club2019.jpg)
   - "Welcome to Shimtah! Shimtah was established in 1999 as the one and only Korean Traditional Percussion group at Cornell University and the Ithaca area, working as the cultural ambassador to preserve and spread the spirit of Korean culture. Practices are held on Saturdays 5–7 PM in Lincoln Hall B20 on the Cornell University. For more information or to request a performance for 2019–2020, contact Mira Kim (mk864@cornell.edu)."
 
   - E-Board Member Introduction: Pictures, Year, Major, Position, Instrument
 
     - President:
       - Mira Kim / C' 2019 / ECE / President & Buswe / Swe, Janggu, Jing
-      ![](images/president.jpg)
+      ![](president.jpg)
 
     - Vice President:
       - Eunah Song / C' 2021 / Biology / Vice President & Sangjanggu / Swe, janggu
-      ![](images/vicepresident.jpg)
+      ![](vicepresident.jpg)
 
     - Musical Director:
       - JeongHyun Lee / C' 2021 / Info Sci & Econ / Swe, Janggu
-      ![](images/musicaldirector.jpg)
+      ![](musicaldirector.jpg)
 
     - Treasurer:
       - ShinHyuk Seo / C'2019 / BME / Buk, Jing
-      ![](images/treasurer.jpg)
+      ![](treasurer.jpg)
 
 
   - Contact form: directed to president's email (mk864@cornell.edu). Name / Email / Year / How did you find out about us?
