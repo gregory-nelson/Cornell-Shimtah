@@ -555,12 +555,13 @@ The third strength is in the header and the footer of the page. They cleanly inc
 
 > 2. Tell us about things that don't work, what you wanted to implement, or what you would do if you keep working with the client in the future. Give justifications.
 
-
+We just used the course provided php to display the submitted content on the signup form. Ideally we would create a script that notified a club leader when someone fills out the interest form.
 
 
 
 > 3. Tell us what you, as a team, learned while working on this project.
 
+Technically, we built on our javascript fundamentals to create the interactive gallery, and on our html and css skills in order to build a clean and professional looking website. The most valuable part of this project however was learning how to develop as a team. We learned early on that if you do not communicate clearly what and when you are working on something issues will develop and the redundant solutions we created wasted time. By the end we feel that we had created a fairly efficient workflow primarily communicating over groupMe, but also occasionally meeting up in person when needed.
 
 > 4. Tell us anything else you need us to know for when we're looking at the project.
 
