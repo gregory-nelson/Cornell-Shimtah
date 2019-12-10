@@ -352,19 +352,25 @@ Task: [TODO: copy task here]
 ## Interactivity Plan (Milestone 2)
 > Write your interactivity pseudocode here.
 
+  Photo gallery Pseudocode:
+  If the user clicks on a picture
+    Remove the hidden element of a larger version of that picture
+    Remove the hidden element for a background display window
+    Display the 'x' close button
+    When the user clicks the 'x'
+        Add the hidden element to the background display window
+        Add the hidden element to the larger version of the picture
 
-
-when DOM is loaded:
-  if user is on photo gallery page:
-    if mouse hovers over picture n:
-      remove hidden element of display window
-      show original picture n on a display window
-    else if mouse does not hover over any picture n:
-      do not show the display window
-  else:
-    do not show the display window
-
-
+  Form Pseudocode:
+  When the user submits:
+    If the name isn't valid
+      Display the name error message
+    If the email isn't valid
+      Display the email error message
+    If the year was left empty
+      Display the year error message
+    If no errors were displayed
+      Submit the form
 ## Additional Comments (Milestone 2)
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.
 
