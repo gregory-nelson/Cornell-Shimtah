@@ -554,3 +554,5 @@ Task: [Find the origin of the type of music played by Shimtah.]
 
 
 > 4. Tell us anything else you need us to know for when we're looking at the project.
+
+Although previous labs and projects suggested that we should not embed youtube videos on our page, our feedback from milestone 3 suggested to do so. The feedback also mentioned that we have hotlinked the youtube videos; however, the TA did not provide appropriate feedback as we never hotlinked videos and they are actually hyperlinked to the Youtube channel. Therefore, for the video page, videos are both hyperlinked and embedded.
