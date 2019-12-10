@@ -4,6 +4,9 @@
   src: url("../abeezee/AbeeZee-Regular.ttf");
 }
 
+h1 {
+  margin-left: 300px;
+}
 body {
   font-family: Montserrat, Helvetica, sans-serif;
   background-color: white;
