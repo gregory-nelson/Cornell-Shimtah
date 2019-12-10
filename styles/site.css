@@ -161,22 +161,21 @@ form h2{
 .row a {
   font-weight: bold;
   font-size: 20px;
-  color: white;
+  color: blue;
+  text-shadow: none;
   display: inline-block;
   margin: auto;
 }
 
-.row a:hover {
-  color:orange;
-  opacity: 1;
-  transition: 0.3s;
-}
 
 /*Start of Photo Page */
 .column {
   float: left;
   width: 25%;
   padding: 10px;
+}
+.photos_source{
+  text-align: center;
 }
 
 
