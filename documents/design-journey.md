@@ -546,8 +546,15 @@ Task: [Find the origin of the type of music played by Shimtah.]
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.
 
+The first strength of this website is in its javascript. The photo gallery is smooth, simple, and intuitive, and useful for the user.
+
+The second strength is in its responsive design. All of the css is structured so that it resizes naturally when the window is resized in a way that makes intuitive sense. What does not naturally side is nicely handled using media queries.
+
+The third strength is in the header and the footer of the page. They cleanly incorporate the Shimtah logo and social media icons, and feature a nice contrast of white and dark grey. They use media queries to handle resizing screens in an intuitive way.
+
 
 > 2. Tell us about things that don't work, what you wanted to implement, or what you would do if you keep working with the client in the future. Give justifications.
+
 
 
 > 3. Tell us what you, as a team, learned while working on this project.
