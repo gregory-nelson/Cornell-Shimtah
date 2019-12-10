@@ -8,6 +8,8 @@ body {
   font-family: Montserrat, Helvetica, sans-serif;
   background-color: white;
   font-size: 20px;
+  margin: 0;
+  height: 100%;
 }
 
 #nav-container{
@@ -15,6 +17,7 @@ body {
   flex-direction: row;
   width: auto;
   background-color: #333333;
+  width:100%;
 
 }
 #logo-container{

@@ -212,7 +212,11 @@ In our initial design, we wanted the home page to have the "welcome to Shimtah" 
 
 We then conducted a card sort with one of the club members. This card sort reflected their thought process when they were designing the template for the website initially:
 
-![](cardSort.JPG)
+Card sort 1
+![](card1.JPG)
+
+Card sort 2
+![](card2.JPG)
 
 After this, we decided that the contact form should go on the "about" page, because that page contained everything else related to club logistics. The sorter also thought there should be some sort of introduction to the club that was more than just "Welcome to Shimtah" on the front page. We decided to add "Traditional Korean Drumming Club" as well under the "welcome to Shimtah", as well as a brief club introduction, to clarify to users what the club does. Our final sketch for the home page looked like this:
 
@@ -380,6 +384,9 @@ when DOM is loaded:
 ## Changes Based on Lab 13 Peer Feedback (Final Submission)
 > What changes did you make to your design based on your peers' feedback?
 
+- We edited our nav bar so that it wrapped to the end of the screen in order to match our footer.
+
+- We set body's height to 100% so that the footer on index.html would sit at the bottom of the page.
 
 ## User Testing
 > If you conducted user testing in Milestone 1, you only need to user test 2 more users. Otherwise, you must conduct user testing with 4 users.
