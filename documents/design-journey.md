@@ -557,6 +557,8 @@ The third strength is in the header and the footer of the page. They cleanly inc
 
 
 
+
+
 > 3. Tell us what you, as a team, learned while working on this project.
 
 
