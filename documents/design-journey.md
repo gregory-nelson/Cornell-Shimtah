@@ -69,9 +69,16 @@ Needs/Wants: [Brief Title]
 
 Mainly Korean & Korean American students at Cornell University or any student who is interested in Korean culture or percussion music group. A smaller, but relevant audience is friends and family of club members who want to find performance videos and other content.
 
-  ## Discovering Users' Needs (Milestone 1)
+## Discovering Users' Needs (Milestone 1)
   > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
 
+![](user_discovery_notes.jpg)
+
+Most important things:
+
+Recruitment (contact form)
+Photos/videos
+Information about club members
 
 ## Users' Needs (Milestone 1)
 > Analyze the users' needs and wants from your notes above. List each need/want below. There is no specific number of needs required for this, but you need enough to do the job.
