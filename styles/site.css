@@ -381,10 +381,6 @@ footer p {
   flex-direction: column;
   width: 50%
 }
-.home_header{
-  margin-left: 0px;
-  text-align: center;
-}
 @media (max-width: 700px){
   #nav-container{
     flex-direction: column;
