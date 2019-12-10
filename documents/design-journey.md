@@ -8,7 +8,7 @@ Be clear and concise in your writing. Bullets points are acceptable.
 ## Client Description (Milestone 1)
 > Tell us about your client. Who is your client? What kind of website do they want? What are their key goals?
 
-Shimtah is the one and only Korean Traditional Percussion group of Cornell University and in the Ithaca area, working as the cultural ambassador to preserve and spread the spirit of Korean culture. Shimtah would like a informative website used to introduce the club, inform people about Korean traditional music, and recruit new members.
+Shimtah is the one and only Korean Traditional Percussion group of Cornell University and in the Ithaca area, working as the cultural ambassador to preserve and spread the spirit of Korean culture. Shimtah would like a informative website used to introduce the club, inform people about Korean traditional music, current members and alumni to post content and check progress, and recruit new members.
 
 
 > NOTE: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** Tell us how you plan to update the site in a significant way that meets the Project 4 requirements.
@@ -400,31 +400,32 @@ Task: [TODO: copy task here]
 ### User 3 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![](user1.png)
 
 ### User 3 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-
+  Mira is a senior studying ECE at Cornell University. She joined Shimtah two years ago. She is the currently the president of Shimtah.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
-> If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
+   Yes, Mira belongs to target audience of the website.
 
 
 ### User 3 - **Desktop** (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: [Find the four instruments Shimtah plays.]
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - The user met my expectation.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - Mira was satisfied with the design. She mentioned that the index page could have a picture to make the website look more complete and full.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - Mira was able to guide herself through the navigation bar and complete the user task. Agreed that the index page looks a bit empty. Adding a picture on the index page.
 - **Re-design choices**
-  - TODO
+  - Adding a picture on the index page
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
@@ -434,31 +435,34 @@ Task: [TODO: copy task here]
 ### User 4 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![](user2.png)
 
 ### User 4 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+  Nancy is a freshman majoring in DEA who joined Shimtah this semester. She enjoys Shimtah practices and performances, but she is not too knowledgeable with the history of Korean percussion music.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
-> If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
+  Yes, the user belongs to my target audience.
+
 
 
 ### User 4 - **Mobile** (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: [Find the four instruments Shimtah plays.]
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - Yes, Nancy met my expectation.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - Nancy really liked the font choice, commenting that the font makes the website very easy to read. She suggested to add headings for pages, so that the user knows which page he or she is currently on.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - Nancy was first confused about how she should use the navigation bar, for there was no heading to tell her which page she was on. However, once she had it figured out, she was able to guide herself to complete the task.
 - **Re-design choices**
-  - TODO
+  - Adding headings on each page to indicate the page that the user is currently on
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
@@ -468,31 +472,32 @@ Task: [TODO: copy task here]
 ### User 5 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![](user3.png)
 
 ### User 5 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-
+  Andrew is a sophomore studying sociology. Although he is not currently in Shimtah, he is interested in traditional Korean music and would like to know more about what kind of music Shimtah plays.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
-> If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
+  Yes, Andrew belongs to my target audience.
 
 
 ### User 5 - **Desktop** (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: [Find what kind of Korean traditional music Shimtah bases its roots in]
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - Andrew met my expectation.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - Andrew complimented how the website utilizes javascript to implement a pop-up image gallery. He said the headings would look more natural if they were centered on the page.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - Although the task was relatively hard for someone who does not have background knowledge in Korean traditional music, Andrew was able to find the right page and read through the content to complete the task.
 - **Re-design choices**
-  - TODO
+  - Adjusting margins of headings
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
@@ -502,31 +507,30 @@ Task: [TODO: copy task here]
 ### User 6 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![](user4.png)
 
 ### User 6 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-
-
+  Eunah is a junior studying biology at Cornell University. She is the vice president of Shimtah, but due to her Korean American background, she is not too knowledgeable regarding history of different Korean traditional music based on different regions of Korea.
 2. Does the user belong to your target audience of the site? (Yes / No)
-> If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
-
+Yes, Eunah belongs to the target audience.
 
 ### User 6 - **Mobile** (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: [Find the origin of the type of music played by Shimtah.]
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - Eunah met my expectation.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - Eunah said that E-board pictures and information would look better if they were organized in a grid view.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - Eunah was able to complete the task with just a click. She knew exactly what to do and read through the content to make sure that she meets my expectation.
 - **Re-design choices**
-  - TODO
+  - Grid-view photos for about page
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
@@ -534,8 +538,10 @@ Task: [TODO: copy task here]
 
 
 ## Changes Based on User Testing (Final Submission)
-> What changes did you make to your design based on user testing?
-
+    - Added headings on each page to indicate which page the user is currently on
+    - Fixed margins of headings
+    - Added a picture to the index page
+    - Changed the about page so it would have a grid-view of E-board pictures
 
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.
